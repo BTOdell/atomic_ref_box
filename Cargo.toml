@@ -1,8 +1,9 @@
 [package]
 name = "atomic_ref_box"
 version = "0.1.0"
+authors = ["Bradley Odell <btodell@hotmail.com>"]
+description = "Box with thread-safe, immutable weak references"
+license = "MIT"
+repository = "https://github.com/BTOdell/atomic_ref_box"
+documentation = "https://docs.rs/atomic_ref_box/"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
